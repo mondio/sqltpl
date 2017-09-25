@@ -1,0 +1,4 @@
+INSERT INTO  ("salary_type_id", "salary_type_name", "sort_num", "update_date_time", "update_per_code", "del_flag", "contract_company_id") VALUES ('26', '時給', '1', '2016-5-23 15:24:10.684', '160', 'f', '16');
+INSERT INTO  ("salary_type_id", "salary_type_name", "sort_num", "update_date_time", "update_per_code", "del_flag", "contract_company_id") VALUES ('27', '月給', '2', '2016-5-23 15:24:18.789', '160', 'f', '16');
+INSERT INTO  ("salary_type_id", "salary_type_name", "sort_num", "update_date_time", "update_per_code", "del_flag", "contract_company_id") VALUES ('28', '日給', '3', '2016-5-23 15:24:26.25', '160', 'f', '16');
+INSERT INTO  ("salary_type_id", "salary_type_name", "sort_num", "update_date_time", "update_per_code", "del_flag", "contract_company_id") VALUES ('29', '年俸', '4', '2016-5-23 15:24:34.953', '160', 'f', '16');
